@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Hi, this is my first blog post!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I'm doing this blog as part of preperation for the Masters of Data Science course at the University of British Columbia. My goal is to use data science for the good of people and the planet.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
