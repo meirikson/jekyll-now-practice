@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Hi, this is my first blog post!
+title: Why I started this blog
 ---
-
-# Why I started this blog
 
 I'm doing this blog as part of preperation for the Masters of Data Science course at the University of British Columbia. The course load will be quite heavy, but thankfully lots of the courses have notes and labs available online. Right now I'm doing as much as I can so that I'm ahead when the program begins. 
 
